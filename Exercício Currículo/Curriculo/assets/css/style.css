@@ -1,0 +1,29 @@
+.foto-perfil{
+    border-radius: 100%;
+    max-width: 120px;
+}
+
+body{
+    background-color: #dbdbdb;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: #000;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #000;
+}
+
+h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #000;
+}
